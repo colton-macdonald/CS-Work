@@ -1,0 +1,16 @@
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.exe
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.deps.json
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.runtimeconfig.json
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.runtimeconfig.dev.json
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.dll
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\ref\PracticeOne.dll
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\bin\Debug\net5.0\PracticeOne.pdb
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.csproj.AssemblyReference.cache
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.AssemblyInfoInputs.cache
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.AssemblyInfo.cs
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.dll
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\ref\PracticeOne.dll
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.pdb
+C:\Users\colto\Desktop\CSC 180\PracticeOne\PracticeOne\obj\Debug\net5.0\PracticeOne.genruntimeconfig.cache
