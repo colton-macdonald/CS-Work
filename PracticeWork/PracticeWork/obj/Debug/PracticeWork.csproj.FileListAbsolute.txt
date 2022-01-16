@@ -1,0 +1,8 @@
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\bin\Debug\PracticeWork.exe.config
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\bin\Debug\PracticeWork.exe
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\bin\Debug\PracticeWork.pdb
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\obj\Debug\PracticeWork.csproj.AssemblyReference.cache
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\obj\Debug\PracticeWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\obj\Debug\PracticeWork.csproj.CoreCompileInputs.cache
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\obj\Debug\PracticeWork.exe
+C:\Users\colto\Desktop\CSC 180\PracticeWork\PracticeWork\obj\Debug\PracticeWork.pdb
